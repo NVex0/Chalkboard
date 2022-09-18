@@ -21,5 +21,6 @@ b2 = float(input('Nhap vao he so thu hai: '))
 b3 = float(input('Nhap vao tong: '))
 
 PTbacnhat2an(a1,a2,a3,b1,b2,b3)
+```
 
 Chạy file python trên là có Flag.
